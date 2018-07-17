@@ -7,7 +7,14 @@
 img {
   padding: var(--spacing);
   background: var(--base);
+  filter: blur(var(--blur));
 }
+
+.hl {
+  color: var(--base);
+}
+
+
 
 body {
   text-align: center;
@@ -18,4 +25,13 @@ background: #193549;
 color: white;
 font-family: 'helvica neue', sans-serif;
 font-weight: 100;
+}
+
+a {
+  color: var(--base);
+  text-decoration: none;
+}
+
+input {
+  width: 100px;
 }

@@ -5,9 +5,9 @@
 ### Installing
 
 ```
-git clone https://github.com/glenpgd/JSClock.git
+git clone https://github.com/glenpgd/JS-CSS_Variables.git
 ```
   Opening file in the browser:
 ```
-git open clock.html 
+git open variables.html 
 ```
